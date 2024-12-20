@@ -1,2 +1,2 @@
-# CS405-Project-2
+# CS405-Project-1
 University course project related to computer graphics.
